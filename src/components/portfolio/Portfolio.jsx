@@ -7,21 +7,21 @@ const items = [
         id: 1,
         title: "Go-Bike",
         img: "/go-bike.jpg",
-        desc: "Te  l stations. It also includes an administrative interface for managing bike inventories, tracking rentals, and generating reports. The system aims to enhance the user experience by providing a convenient and efficient platform for bike rentals. "
+        desc: "This project is a web-based application designed for students  to lend or rent bikes within the university campus. Users can either rent bikes or lend their own bikes for rental. The rental fee is calculated based on the hourly rate set by the bike owner, providing a flexible and convenient transportation solution tailored to the needs of the university community. "
 
     },
     {
         id: 1,
         title: "Nimble",
         img: "/nimble.jpg",
-        desc: "    from a network of rental stat The system aims to enhance the user experience by providing a convenient and efficient platform for bike rentals. "
+        desc: "  Nimble is a comprehensive employee management system that focuses on optimizing workplace operations. It features robust leave management, a platform for employee suggestions, peer-to-peer feedback, and event management. The system is designed to enhance communication, streamline processes, and foster a collaborative and engaging work environment. "
 
     },
     {
         id: 1,
         title: "Jobify",
         img: "/jobsearch.jpg",
-        desc: "Theo easilytwork of rental stations. It also includes an administrative interface for managing bike inventories, tracking rentals, and generating reports. The system aims to enhance the user experience by providing a convenient and efficient platform for bike rentals. "
+        desc: "Jobify is a developing platform designed to connect job seekers with employers, featuring job listings and personalized recommendations. The project is currently in progress. "
 
     },
 ]
