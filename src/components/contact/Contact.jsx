@@ -70,7 +70,7 @@ const Contact = () => {
                         Phone
                     </h2>
                     <span>
-                        +91 8590788343
+                        +971 4 384 5547
                     </span>
                 </motion.div>
             </motion.div>
